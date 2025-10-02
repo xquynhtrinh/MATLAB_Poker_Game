@@ -1,48 +1,56 @@
-# Poker Game using MATLAB
+# Poker Game
 
-(Simple overview of use/purpose)
-This is the final project for Engineering Problem Solving at Sacramento City College.
+A MATLAB-based poker game built with a Graphical User Interface (GUI). This project provides an interactive way to simulate a poker game experience, complete with card images, sounds, and user-friendly controls.
+
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project demonstrates how MATLAB can be used beyond numerical computing, by creating a fun and interactive Poker Game.
+The game uses MATLAB GUI components to handle:
 
+- **Card dealing and shuffling**
+- **Poker hand evaluations**
+- **Interactive play** with buttons and images
+- **Sound effects** for enhanced experience
+
+The game structure is modular, with separate folders for card assets, images, sounds, and the latest playable version of the code.
 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Before running, ensure you have:
+
+- MATLAB R2021a or newer (GUI components tested with GUIDE/App Designer)
+- Works on Windows, macOS, or Linux with MATLAB installed
+- No additional toolboxes required (unless otherwise stated in LatestPokerVersion documentation)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+1. Clone or download the repository:
+
+```
+git clone https://github.com/yourusername/MATLAB_Poker_Game.git
+```
+2. Open MATLAB and set the project folder as the working directory.
+3. Ensure subfolders (Cards, Images, Sounds, LatestPokerVersion) remain intact, as the game depends on these assets
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+1. Open MATLAB.
+2. Navigate to the LatestPokerVersion folder.
+3. Run the main script ```LatestPokerUpdate.mlapp```
+4. The GUI window will launch. Use the on-screen buttons to play.
 
-=
+## Contributors
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
+- Elijah Goldstein
+- Lindsey Olagundoye
+- Quynh Trinh
+- Benett Navarro Moreno
 
 
-## Acknowledgments
+## Advisor
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+**Professor Eric Wyles** – Sacramento City College  
