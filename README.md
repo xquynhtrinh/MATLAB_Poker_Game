@@ -43,6 +43,17 @@ git clone https://github.com/yourusername/MATLAB_Poker_Game.git
 3. Run the main script ```LatestPokerUpdate.mlapp```
 4. The GUI window will launch. Use the on-screen buttons to play.
 
+### Gameplay Preview
+
+**Main menu**
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a1fc6737-78da-4961-bb37-cbb9e74ac683" />
+
+**No Winning Hand Example**
+<img width="966" height="755" alt="image" src="https://github.com/user-attachments/assets/a197ce39-49fc-41a7-8f1a-4e9e018c3db7" />
+
+**Winning Hand Example**
+<img width="972" height="769" alt="image" src="https://github.com/user-attachments/assets/70a3f484-bbff-475c-91f5-ca06bb1150e3" />
+
 ## Contributors
 
 - Elijah Goldstein
